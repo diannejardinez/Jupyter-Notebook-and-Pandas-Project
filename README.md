@@ -1,4 +1,4 @@
-Jupyter Notebook Pandas refresher projects
+## Jupyter Notebook Pandas refresher projects
 
 - NumPy (Aggregating data)
 - DataFrames (Transforming Data)
